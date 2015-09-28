@@ -22,6 +22,7 @@
   "homepage": "https://github.com/nemisj/git-remove-stale",
   "dependencies": {
     "async": "^1.4.2",
+    "git-removed-branches": "^1.0.0",
     "minimist": "^1.2.0"
   }
 }

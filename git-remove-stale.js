@@ -1,5 +1,5 @@
-var FindStale = require('./lib/find-stale.js');
-var utils = require('./lib/utils.js');
+var FindStale = require('git-removed-branches/lib/find-stale.js');
+var utils = require('git-removed-branches/lib/utils.js');
 
 var argv = require('minimist')(process.argv, {
   string: 'remote',
